@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm N.A.M Mahfuj</h1>
-<h3 align="center">Kingz Tor Abbu N.A.M The Gamer</h3>
+<h1 align="center">Hi 👋, I'm Nurul Amin Mahfuj</h1>
+<h3 align="center">Kingz Tor Abbu N.A.M Mahfuj The Gamer</h3>
 
+![20210405_053229](https://user-images.githubusercontent.com/64296613/113524431-75fa3480-95d0-11eb-9d78-a333b84cb368.jpg)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
